@@ -1,6 +1,3 @@
-
-
-
 document.getElementById('btn-deposite').addEventListener('click',function( ) {
     const inputDepositeFieldGiven =  getFieldName('deposite-felid');
     const previousTotalDepo = getElementByText('total-depo');
